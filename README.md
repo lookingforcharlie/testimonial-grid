@@ -4,7 +4,7 @@
 - ![](./images/page_layout.png)
 
 ```
-< style="color:orange">
+
   //Page smaller than md only has one column, greater than md has 4 cols and 2 rows//
   <div class="grid gap-6 grid-cols-1 md:grid-cols-4 md:grid-rows-2">
 
@@ -23,5 +23,5 @@
 
     <box6 class="md:hidden"></box6>
   </div>
-</span>
+
 ```
