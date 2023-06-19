@@ -1,5 +1,3 @@
-console.log('it is working');
-
 const seeAll = document.querySelector('#seeall-btn');
 const p1 = document.querySelector('#box1-para');
 
